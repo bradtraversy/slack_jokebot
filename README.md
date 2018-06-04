@@ -4,8 +4,11 @@
 
 ## APIs Used:
 [http://www.icndb.com/api/](http://www.icndb.com/api/)
+
 [http://yomomma.info/](http://yomomma.info/)
 
+## Slackbots (slack-bot-api)
+[https://github.com/mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api)
 
 ## Quick Start
 
